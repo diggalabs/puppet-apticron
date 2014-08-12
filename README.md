@@ -1,4 +1,0 @@
-puppet-apticron
-===============
-
-apticron
