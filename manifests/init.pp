@@ -1,4 +1,4 @@
- == Class: apticron
+# == Class: apticron
 #
 # Installs package apticron
 #
