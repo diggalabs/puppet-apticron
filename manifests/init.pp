@@ -2,8 +2,6 @@
 #
 # Installs package apticron
 #
-# === Parameters
-#
 # === Authors
 #
 # SysOps <sysops@diggalabs.com>
