@@ -1,6 +1,5 @@
 class apticron{
-	package{'apticron':
-		ensure		=> 'latest',
-
-	}
+ package{'apticron':
+  ensure  => 'latest',
+ }
 }
